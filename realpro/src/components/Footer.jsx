@@ -126,7 +126,7 @@ const Footer = () => {
         {/* Divider */}
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-center md:text-left mb-4 md:mb-0">
-            © {currentYear} MyLogo. All rights reserved.
+            © {currentYear} Softnova. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <a href="#" className="text-sm hover:text-white transition-colors duration-200">
