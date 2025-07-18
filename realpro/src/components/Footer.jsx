@@ -45,7 +45,7 @@ const Footer = () => {
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <div className="flex items-center mb-4">
-              <span className="text-2xl font-bold text-white">MyLogo</span>
+              <span className="text-2xl font-bold text-white">Softnova</span>
             </div>
             <p className="text-sm mb-4">
               Creating beautiful, responsive websites that work on all devices.

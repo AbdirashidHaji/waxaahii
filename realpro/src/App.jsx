@@ -5,6 +5,7 @@ import Services from './sections/Services'
 import Contact from './sections/Contact'
 import About from './sections/About' // Assuming you have an About component
 import Footer from './components/Footer'
+import Testimonials from './sections/Testimonials' // Assuming you have a Testimonials component
 import { ThemeProvider } from './context/ThemeProvider'
 
 const App = () =>{
@@ -16,6 +17,7 @@ const App = () =>{
           <Hero />
           <About/>
           <Services />
+          <Testimonials />
           <Contact />
           <Footer/>
         </main>
